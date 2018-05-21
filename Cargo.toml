@@ -2,5 +2,7 @@
 name = "spect"
 version = "0.0.1"
 authors = ["Alex McArther <acmcarther@gmail.com>"]
+description = "A generic status page for applications"
+license = "Apache-2.0"
 
 [dependencies]
